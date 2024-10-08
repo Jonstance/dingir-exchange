@@ -2076,7 +2076,7 @@ dependencies = [
 [[package]]
 name = "paperclip"
 version = "0.6.1"
-source = "git+https://github.com/fluidex/paperclip.git#f0fa21eab2042feca1679978ec7d08f8f4baa2c4"
+source = "git+https://github.com/Jonstance/paperclip.git#18a1b5d04ef6c8087cec4f36f06128161cde10cb"
 dependencies = [
  "anyhow",
  "itertools",
@@ -2102,7 +2102,7 @@ dependencies = [
 [[package]]
 name = "paperclip-actix"
 version = "0.4.2"
-source = "git+https://github.com/fluidex/paperclip.git#f0fa21eab2042feca1679978ec7d08f8f4baa2c4"
+source = "git+https://github.com/Jonstance/paperclip.git#18a1b5d04ef6c8087cec4f36f06128161cde10cb"
 dependencies = [
  "actix-service",
  "actix-web",
@@ -2121,7 +2121,7 @@ dependencies = [
 [[package]]
 name = "paperclip-core"
 version = "0.4.1"
-source = "git+https://github.com/fluidex/paperclip.git#f0fa21eab2042feca1679978ec7d08f8f4baa2c4"
+source = "git+https://github.com/Jonstance/paperclip.git#18a1b5d04ef6c8087cec4f36f06128161cde10cb"
 dependencies = [
  "actix-web",
  "chrono",
@@ -2145,7 +2145,7 @@ dependencies = [
 [[package]]
 name = "paperclip-macros"
 version = "0.5.1"
-source = "git+https://github.com/fluidex/paperclip.git#f0fa21eab2042feca1679978ec7d08f8f4baa2c4"
+source = "git+https://github.com/Jonstance/paperclip.git#18a1b5d04ef6c8087cec4f36f06128161cde10cb"
 dependencies = [
  "heck",
  "http",
