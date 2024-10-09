@@ -54,6 +54,9 @@ path = "src/bin/restapi.rs"
 name = "matchengine"
 path = "src/bin/matchengine.rs"
 
+[patch.crates-io]
+ahash = "0.7.7"
+
 [features]
 windows_build = [ "fluidex-common/rdkafka-dynamic" ]
 emit_state_diff = [ ]
